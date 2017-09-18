@@ -22,7 +22,7 @@
   letter-spacing: 1pt;
   font-size: 177%;
   font-family: georgia, serif;
-  color: #DEBD83;
+  color: #35A5A0;
   font-weight: bold;
   text-decoration: none;
   margin: auto;
@@ -82,7 +82,7 @@
   font-size: 177%;
   font-family: georgia, serif;
   line-height: 12vh;
-  color: #000000;
+  color: #35A5A0;
   font-weight: bold;
   text-decoration: none;
   margin: auto;
@@ -135,67 +135,67 @@ body {
 }
 @-moz-keyframes hover {
   0% {
-    color: #DEBD83;
+    color: #35A5A0;
   }
   50% {
     color: #92CEC5;
   }
   100% {
-    color: #DEBD83;
+    color: #35A5A0;
   }
 }
 @keyframes hover {
   0% {
-    color: #DEBD83;
+    color: #35A5A0;
   }
   50% {
     color: #92CEC5;
   }
   100% {
-    color: #DEBD83;
+    color: #35A5A0;
   }
 }
 @-webkit-es hover {
   0% {
-    color: #DEBD83;
+    color: #35A5A0;
   }
   50% {
     color: #92CEC5;
   }
   100% {
-    color: #DEBD83;
+    color: #35A5A0;
   }
 }
 @keyframes hover2 {
   0% {
-    color: #000000;
+    color: #35A5A0;
   }
   50% {
     color: #92CEC5;
   }
   100% {
-    color: #000000;
+    color: #35A5A0;
   }
 }
 @-moz-keyframes hover2 {
   0% {
-    color: #000000;
+    color: #35A5A0;
   }
   50% {
     color: #92CEC5;
   }
   100% {
-    color: #000000;
+    color: #35A5A0;
   }
 }
 @-webkit-keyframes hover2 {
   0% {
-    color: #000000;
+    color: #35A5A0;
   }
   50% {
     color: #92CEC5;
   }
   100% {
-    color: #000000;
+    color: #35A5A0;
   }
 }
