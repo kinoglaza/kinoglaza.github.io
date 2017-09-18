@@ -15,7 +15,7 @@
   background-color: #733816;
   position: absolute;
   top: 50%;
-  width: 25%;
+  width: 33%;
   text-align: center;
 }
 .baritemlink {
@@ -63,13 +63,10 @@
   left: 0%;
 }
 .baritem2 {
-  left: 25%;
+  left: 34%;
 }
 .baritem3 {
-  left: 50%;
-}
-.baritem4 {
-  left: 75%;
+  left: 67%;
 }
 .bartitle {
   height: 50%;
